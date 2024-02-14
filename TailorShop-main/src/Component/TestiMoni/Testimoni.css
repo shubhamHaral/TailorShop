@@ -1,0 +1,87 @@
+.testimoni {
+    margin-top: 916px;
+    width: 100%;
+    display: flex;
+
+}
+
+.Group7 {
+    height: 460.56px;
+    margin-top: 12px;
+    margin-right: 13px;
+}
+
+.contents {
+    margin-left: 71px;
+    margin-top: 42px;
+    text-align: left;
+
+}
+
+.for_rating {
+    display: flex;
+
+}
+
+.for_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.Group6 {
+
+    height: 492.56px;
+
+}
+
+#HeSay {
+    width: 138px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #FDC1DF;
+}
+
+#reply {
+    text-align: left;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 0;
+    color: #FFFFFF;
+    line-height: 4px;
+
+}
+
+.for_text1 {
+
+    width: 321px;
+    height: 27px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 31px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.for_text2 {
+    width: 106px;
+    height: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}

@@ -1,0 +1,95 @@
+.footer_text {
+    margin-top: 1140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.table {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.col-2 {
+    padding-left: 200px;
+}
+
+.col-1 {
+    padding-left: 126px;
+}
+
+.copy {
+    width: 274px;
+    height: 15px;
+    margin-top: 30px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+
+}
+
+.tailer_text {
+
+
+    width: 136px;
+    height: 53px;
+    font-family: 'Maitree';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 53px;
+    letter-spacing: 0.065em;
+
+    color: #F7C8E0;
+
+
+}
+
+.heading_text {
+    width: 90px;
+    height: 21px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+
+.heading_text {
+    /* a startup that has just started in the sewing field */
+
+
+    width: 260px;
+    height: 48px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+
+
+}
+
+.sub_text {
+
+    width: 106px;
+    height: 42px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+}

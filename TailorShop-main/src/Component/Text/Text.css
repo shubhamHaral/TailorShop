@@ -1,0 +1,58 @@
+.introContent {
+    position: absolute;
+    width: 485px;
+    height: 228px;
+    left: 205px;
+    top: 256px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.introContent span {
+    display: flex;
+
+}
+
+.div p {
+    display: flex;
+    margin: 5px;
+}
+
+.div {
+    position: absolute;
+    width: 309px;
+    left: 205px;
+    top: 468px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    /* line-height: 21px; */
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+.btn2 {
+    color: white;
+    background: row;
+    align-items: center;
+    padding: 11px 25px;
+    font-family: 'Rubik';
+    background: #8D72E1;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    cursor: pointer;
+
+}

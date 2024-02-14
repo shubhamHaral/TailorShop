@@ -1,0 +1,183 @@
+.advantages {
+    position: absolute;
+    left: 0px;
+    top: 964px;
+    width: 100%;
+}
+
+.advantages .title p {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+}
+
+.advantages .title span {
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: rgba(255, 255, 255, 0.6);
+    display: flex;
+    flex-direction: column;
+}
+
+#p {
+    position: absolute;
+    width: 292px;
+    height: 47px;
+    left: 839px;
+    top: 908px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+.Group {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pp {
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: rgba(255, 255, 255, 0.6);
+
+
+}
+
+.shape1 {
+
+    width: 166px;
+    height: 179px;
+    left: 360px;
+}
+
+
+
+
+#profe {
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+
+
+}
+
+#exp {
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #F7C8E0;
+}
+
+
+.shape3 {
+
+    width: 238px;
+    height: 412px;
+    left: 875px;
+    top: 1060px;
+}
+
+#best {
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+#material {
+
+    top: 346px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #F7C8E0;
+}
+
+.shape2 {
+
+    width: 238px;
+    height: 294px;
+    left: 1329px;
+    top: 1060px;
+}
+
+#morden {
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+#model {
+
+    left: 23px;
+    top: 342px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #F7C8E0
+}
